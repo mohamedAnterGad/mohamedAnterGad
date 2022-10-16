@@ -21,6 +21,8 @@
 - 🌱 I’m currently learning "aws machine learning" on udacity
 - :mailbox:How to reach me : mohamedantergad@gmail.com
 - my resume : https://drive.google.com/file/d/1p1ee-qbwIqY7wW7kwcr5EqFEP854FAmf/view?usp=sharing
+- past experiences : Embedded systems, Android development and Networks
+- favourite sport : parkour
 
 ### :hammer_and_wrench: Programming Languages :
 <div>
